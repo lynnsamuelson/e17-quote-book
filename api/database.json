@@ -1,0 +1,19 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "author": "Trevor",
+      "quote": "Dev Ops Drool a lot!"
+    },
+    {
+      "quote": "Developer's Rule!",
+      "author": "Sydney",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "quote": "Student's come first",
+      "author": "Steve"
+    }
+  ]
+}
